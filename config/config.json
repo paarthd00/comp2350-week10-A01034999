@@ -1,7 +1,7 @@
 {
   "development": {
     "username": "root",
-    "password": "Toffifee1$",
+    "password": "Id0ntkn0w!",
     "database": "lab10qoddi",
     "host": "127.0.0.1",
     "dialect": "mysql"
@@ -14,10 +14,10 @@
     "dialect": "mysql"
   },
   "production": {
-    "username": "root",
-    "password": null,
-    "database": "database_production",
-    "host": "127.0.0.1",
+    "username": "freedb_2350_mainn",
+    "password": "wcYEmkemR4v*Nnz",
+    "database": "freedb_freedb_restaurant",
+    "host": "sql.freedb.tech",
     "dialect": "mysql"
   }
 }
